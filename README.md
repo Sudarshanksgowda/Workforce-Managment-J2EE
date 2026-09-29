@@ -15,6 +15,7 @@ A web-based **Workforce Management System** developed using **J2EE** that enable
 
 * Admin Login
 * Add, View, Update & Delete Employees
+* Edit employee details
 * Employee Search
 * MySQL Database Integration
 * Responsive User Interface
